@@ -6,7 +6,7 @@ Get image from docker repo
 ```
 docker pull jupyter/datascience-notebook
 ```
-
+ 
 Run image with your local folder
 
 ```
